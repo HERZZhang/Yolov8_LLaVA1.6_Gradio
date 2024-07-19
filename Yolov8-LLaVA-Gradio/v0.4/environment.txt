@@ -1,0 +1,4 @@
+gradio
+erniebot==0.5.8
+ultralytics
+numpy

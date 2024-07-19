@@ -162,7 +162,7 @@ demo2 = gr.Interface(
         gr.Textbox(lines=5,label="回复", container=False, scale=7),  # 消息回复
         catorgory_now                # 合并的state输出
     ],
-    title="海洋动物介绍小助手",
+    title="海洋生态介绍小助手",
 )
 
 def welcome():
